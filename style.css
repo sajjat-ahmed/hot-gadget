@@ -1,0 +1,57 @@
+.gap{
+    margin-top: 50px;
+}
+.background-img{
+    background-repeat: no-repeat;
+}
+.item-align{
+    text-align: center;
+}
+.logo{
+    height: 55px;
+}
+.button{
+    background-color: black;
+    color: white;
+    background: none;
+    border: none;
+    background-color: black;
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.card{
+    border: none;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card, .card-footer{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.cat{
+    margin-top: 100px;
+    margin-bottom: 10spx;
+    text-align: center;
+}
+.box-align{
+    height: 10px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, #fdc21f, #fe9b35);
+}
+footer, small{
+    text-align: center;
+    margin-top: 20px;
+}
+.footer-img{
+    height: 450px;
+}
+a{
+    color: #ffa310;
+}
