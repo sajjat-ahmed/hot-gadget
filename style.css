@@ -1,17 +1,17 @@
+.active{
+    color: black;
+}
 .gap{
     margin-top: 50px;
-}
-.background-img{
-    background-image: url(images/bg-1.png);
-    background-image: url(images/bg-2.png);
-    position: relative;
-    background-repeat: no-repeat;
 }
 .item-align{
     text-align: center;
 }
+.active{
+    background-image: ;
+}
 .logo{
-    height: 55px;
+    height: 70px;
 }
 .button{
     background-color: black;
@@ -52,16 +52,9 @@ footer, small{
     text-align: center;
     margin-top: 20px;
 }
-}
 a{
     color: #ffa310;
-    text
 }
-
-
-
-
-
 .cat-bag, .cat-perfume, .cat-shoe{
     box-shadow: 5px 5px 10px grey;
     text-align: center;
@@ -77,3 +70,30 @@ a{
 }
 
 
+
+
+.navbar{
+    background-color: white !important;
+}
+
+
+
+
+
+
+
+.carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 15;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+}
